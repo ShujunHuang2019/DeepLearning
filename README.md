@@ -1,2 +1,4 @@
 # DeepLearning
-To study deep learning
+Study deep learning
+
+Week 1
