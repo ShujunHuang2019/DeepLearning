@@ -18,16 +18,16 @@ This course also teaches you how Deep Learning actually works, rather than prese
 This is the first course of the Deep Learning Specialization.
 
 1. #### [Week 1: Introduction to deep learning](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week1IntroductionPractice)
-- [ ] Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.
+> Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.
 
 2. #### [Week 2: Neural Networks Basics](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week2LogisticRegressionPractice)
-- [ ] Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.
+> Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.
 
 3. #### [Week 3: Shallow neural networks](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week3ShallowNNPractice)
-- [ ] Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
+> Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
 
 4. #### [Week 4: Deep Neural Networks](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week4DeepNNPractice)
-- [ ] Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
+> Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
 
 
 ### COURSE 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -85,18 +85,16 @@ You will:
 This is the fourth course of the Deep Learning Specialization.
 
 1. #### [Week 1: Foundations of Convolutional Neural Networks](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week10CNNs_Practice)
-- [ ] Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
+> Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
 
 2. #### [Week 2: Deep convolutional models: case studies](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week11DeepConvolutionalModelsPractice)
-- [ ] Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
-
+> Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
 
 3. #### [Week 3:Object detection](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week12ObjectDetectionPractice)
-- [ ] Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
-
+> Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
 
 4. #### [Week 4: Special applications: Face recognition & Neural style transfer](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week13SpecialApplicationsPractice)
-- [ ] Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
+> Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
 
 
 
@@ -113,13 +111,13 @@ This is the fifth and final course of the Deep Learning Specialization.
 
 
 1. #### [Week 1: Recurrent Neural Networks](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week14RNNsPractice)
-- [ ] Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
+> Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
 
 2. #### [Week 2: Natural Language Processing & Word Embeddings](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week15BPL%26WordEmbeddingsPractice)
-- [ ] Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
+> Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
 
 3. #### [Week 3: Sequence models & Attention mechanism](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week16SequenceModels%26AttentionMechanismPractice)
-- [ ] Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
+> Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs. This week, you will also learn about speech recognition and how to deal with audio data.
 
 
 
