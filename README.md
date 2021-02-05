@@ -54,5 +54,21 @@ You will:
 - Know to use neural style transfer to generate art.
 - Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
+1. #### [Week 1: Foundations of Convolutional Neural Networks](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week10CNNs_Practice)
+- [ ] Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
+
+2. #### [Week 2: Deep convolutional models: case studies](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week11DeepConvolutionalModelsPractice)
+- [ ] Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
+
+
+3. #### [Week 3:Object detection](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week12ObjectDetectionPractice)
+- [ ] Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
+
+
+4. #### [Week 4: Special applications: Face recognition & Neural style transfer
+](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week13SpecialApplicationsPractice)
+- [ ] Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
+
+
 
 ### COURSE 5: Sequence Models
