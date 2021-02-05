@@ -23,10 +23,14 @@ This repo contains the source-code and results of the deep learning course I am 
 > This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow.
 
 1. #### [Week 1: Practical aspects of Deep Learning](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week5Practice)
+- [ ] Be able to Understand industry best-practices for building deep learning applications. 
 
 2. #### [Week 2: Optimization algorithms](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week6Practice)
+- [ ] Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
+- [ ] Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence.
 
 3. #### [Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week7Practice)
+- [ ] Be able to Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance - Be able to implement a neural network in TensorFlow. This is the second course of the Deep Learning Specialization.
 
 ### COURSE 3: Structuring Machine Learning Projects
 
