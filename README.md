@@ -1,6 +1,6 @@
 # Deep Learning Specialization
 
-This repo contains the source-code and results of the deep learning course I am taking in [Coursera](https://www.coursera.org/specializations/deep-learning). The course series include five courses.
+**This repo contains the source-code and results of the deep learning course I am taking in [Coursera](https://www.coursera.org/specializations/deep-learning). The course series include five courses.**
 
 
 ### COURSE 1: Neural Networks and Deep Learning
