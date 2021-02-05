@@ -19,6 +19,13 @@ This repo contains the source-code and results of the deep learning course I am 
 
 
 ### COURSE 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+> This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow.
+
+1. #### [Week 1: Practical aspects of Deep Learning](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week5Practice)
+
+2. #### [Week 2: Optimization algorithms](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week6Practice)
+
+3. #### [Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/ShujunHuang2019/DeepLearning/tree/master/Week7Practice)
 
 ### COURSE 3: Structuring Machine Learning Projects
 
